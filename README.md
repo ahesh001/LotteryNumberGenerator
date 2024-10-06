@@ -4,5 +4,6 @@
 
 # Disclaimer
 <b>No Guaranteed Win: This code helps you generate random numbers according to the Mega Millions rules but does not increase your chances of winning.</b>
-Randomness: Lotteries are games of chance, and the outcomes are random.
+<br>
+Randomness: Lotteries are games of chance, and the outcomes are random.<br>
 Responsible Gaming: Play responsibly and consider lottery participation as entertainment.
