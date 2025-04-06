@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "LotteryNumberGenerator": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "COLLECTAPI_KEY": "6mBIPRfK2N1uCKH8Qzzgek:7nHAZhEKc0pFmD22DAEX3b"
+      }
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  },
+  {
+    "success": true,
+    "result": {
+      "numbers": {
+        "mainNumbers": "5-28-62-65-70",
+        "megaBall": "5"
+      },
+      "date": "2025-01-01"
+    }
+  }
+}
